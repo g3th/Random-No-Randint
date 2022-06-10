@@ -2,7 +2,7 @@ import time
 
 print("\x1bc")
 
-end = int(input('Random range (1-5 Numbers:'))
+end = int(input('Random range: (1-5 Numbers)'))
 start = 13
 
 while True:
